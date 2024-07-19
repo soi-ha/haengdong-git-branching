@@ -69,5 +69,3 @@
 - 사용문서 : notion
 - 의사소통 : discord
 - 아이디어 : figjam
-
-
